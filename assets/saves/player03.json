@@ -1,0 +1,14 @@
+{ 
+    "PlayerAtual" : {
+    "healthpoints": 3,
+    "spawnPosition": [0,0],
+    "mapa" : "",
+    "posicao": [0,0]
+    },
+    "PlayerSalvo": {
+        "healthpoints": 3,
+        "spawnPosition": [0,0],
+        "mapa" : "",
+        "posicao": [0,0]
+    }
+}

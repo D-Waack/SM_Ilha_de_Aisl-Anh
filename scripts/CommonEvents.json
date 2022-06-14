@@ -1,0 +1,256 @@
+{
+    "0": {
+        "0": {
+            "Text": "Um restaurante... \nA beira do mar...",
+            "Character": "Edgar"
+        },
+        "1": {
+            "Text": "Um resta-... \nPera, onde eu estou?!",
+            "Character": "Edgar"
+        },
+        "2": {
+            "Text": "Cadê todo mundo...? Dr Rowen?",
+            "Character": "Edgar"
+        },
+        "3": {
+            "Text": "Hahaha e se eu cortar seu \nbraço fora?!",
+            "Character": "Dr Rowen"
+        },
+        "4": {
+            "Text": "O que diabos?! O velho \nenlouqueceu.",
+            "Character": "Edgar"
+        },
+        "5": {
+            "Text": "C-cristopher...?",
+            "Character": "Edgar"
+        },
+        "6": {
+            "Text": "Navios voadores... \nCom cobras e cerveja...",
+            "Character": "Cristopher"
+        },
+        "7": {
+            "Text": "Não pode ser... \nO que houve?! \nMadeline?!",
+            "Character": "Edgar"
+        },
+        "8": {
+            "Text": "Ah, Leopoldo... \nEu não posso voltar, o duque é velho \ndemais...",
+            "Character": "Madeline"
+        },
+        "9": {
+            "Text": "Até você, Madeline... \nAugusto, você é  minha última \nesperança...",
+            "Character": "Edgar"
+        },
+        "10": {
+            "Text": "Por que me persegues até no mar, \nninfa do bosque...",
+            "Character": "Augusto"
+        },
+        "11": {
+            "Text": "Você não mudou muito, foi meu erro \neseperar qualquer coisa de você.",
+            "Character": "Edgar"
+        },
+        "12": {
+            "Text": "Algo com essa ilha não está certo. \nEu vou buscar os três para que \npossamos ir embora.",
+            "Character": "Edgar"
+        }
+    },
+    "1": {
+        "0": {
+            "Text": "Onde estão eles? \nEspero que estejam bem...",
+            "Character": "Edgar"
+        },
+        "1": {
+            "Text": "Devem ter ido para dentro da ilha.",
+            "Character": "Edgar"
+        },
+        "2": {
+            "Text": "Filho de homem, o que fazes nesta \nilha?",
+            "Character": "Tokei"
+        },
+        "3": {
+            "Text": "Quem é você? E onde você está?",
+            "Character": "Edgar"
+        },
+        "4": {
+            "Text": "Eu sou Tokei, décima oitava ordem do \nvigésimo sétimo batalhão do reino \ncelestial. Uma mera ordem do tempo.\nDeixe esta ilha, filho de homem.",
+            "Character": "Tokei"
+        },
+        "5": {
+            "Text": "Ordem do tempo? Eu não posso ir \nembora, tenho que encontrar meus \namigos.",
+            "Character": "Edgar"
+        },
+        "6": {
+            "Text": "Você meramente vai se perder num \npesadelo eterno, como seus \namigos antes... \n...",
+            "Character": "Tokei"
+        },
+        "7": {
+            "Text": "Se desejas salvá-los, \npodemos fazer um trato.\nEu te empresto meu poder,\ne você será capaz de sobreviver \nnesta ilha e salvar seus amigos.",
+            "Character": "Tokei"
+        },
+        "8": {
+            "Text": "Porém você terá que destruir \na fada que aqui reside. \nEsta é a minha condição.",
+            "Character": "Tokei"
+        },
+        "9": {
+            "Text": "Seu poder? Desde que me ajude \na encontrar meus amigos. Eu destruo \na fada, ou o que for.",
+            "Character": "Edgar"
+        },
+        "10": {
+            "Text": "Boa escolha, filho de homem. \nCom o tempo ao seu lado, vitória é \ninevitável. \nVá então, salve seus amigos.",
+            "Character": "Tokei"
+        },
+        "11": {
+            "Text": "Será que eu estou \nenlouquecendo também?",
+            "Character": "Edgar"
+        }
+    },
+    "2": {
+        "0": {
+            "Text": "Camille! Você está bem?!",
+            "Character": "Edgar"
+        },
+        "1": {
+            "Text": "Edgar... Eu sonhei com um trem \ngigante... Quando eu me dei conta, \nestava preso nessa floresta com \ncentenas de slimes.",
+            "Character": "Camille"
+        },
+        "2": {
+            "Text": "Eu vou te levar de volta, quando \nestivermos todos juntos nós \npodemos deixar esta ilha.",
+            "Character": "Edgar"
+        },
+        "3": {
+            "Text": "Obrigado, Edgar. \nVamos voltar então.\nMate os slimes no caminho, \npor favor.",
+            "Character": "Camille"
+        }
+    },
+    "3": {
+      "0": {
+          "Text": "William... o que você está fazendo, \nolhando assim para a parede?",
+          "Character": "Edgar"
+      },
+      "1": {
+          "Text": "É você, Edgar? Eu estava pensando \nem escalar essa parede. \nNão consegui encontrar um \ncaminho de volta.",
+          "Character": "William"
+      },
+      "2": {
+          "Text": "Mas só tem um caminho...? \nBom, de qualquer forma, eu te levo \nde volta.",
+          "Character": "Edgar"
+      },
+      "3": {
+          "Text": "Não vamos escalar a parede?",
+          "Character": "William"
+      },
+      "4": {
+          "Text": "Não, não vamos.",
+          "Character": "Edgar" 
+      }
+    },
+    "4": {
+      "0": {
+        "Text": "Estava te esperando, Edgar.",
+        "Character": "Lenore"
+      },
+      "1": {
+        "Text": "Lenore, que bom que você \nestá bem.",
+        "Character": "Edgar"
+      },
+      "2": {
+        "Text": "Como eu cheguei aqui...? \nProcurando um sonho impossível. \nEssa ilha não é um bom lugar. \nGatos demais.",
+        "Character": "Lenore"
+      },
+      "3": {
+        "Text": "Vamos embora, Lenore. \nOs gatos não vão fazer nada.",
+        "Character": "Edgar"
+      }
+    },
+    "5": {
+      "0": {
+        "Text": "Você salvou seus amigos, \nfilho de homem. \nAgora peço que cumpra sua \nparte do trato.",
+        "Character": "Tokei"
+      },
+      "1": {
+        "Text": "Você não vem com a gente, Edgar?",
+        "Character": "Camille"
+      },
+      "2": {
+        "Text": "Quem é esse cara?",
+        "Character": "William"
+      },
+      "3": {
+        "Text": "Edgar, o que foi que você prometeu?",
+        "Character": "Lenore"
+      },
+      "4": {
+        "Text": "(Eles podem ver ele também, \nque bom que não enlouqueci)",
+        "Character": "Edgar"
+      }
+    },
+    "6": {
+      "0": {
+        "Text": "Talvez eu tenha sido tolo \nem esperar que um pirata \nhonrasse sua palavra.",
+        "Character": "Tokei"
+      },
+      "1": {
+        "Text": "Espero que encontre o que \nprocurava, filho de homem.",
+        "Character": "Tokei"
+      }
+    },
+    "7": {
+      "0": {
+        "Text": "Estamos esperando, Edgar.",
+        "Character": "Lenore"
+      },
+      "1": {
+        "Text": "Não demora muito, estou com fome.",
+        "Character": "William"
+      },
+      "2": {
+        "Text": "Vou te construir uma cozinha \nmelhor quando voltarmos, Edgar.",
+        "Character": "Cristopher"
+      },
+      "3": {
+        "Text": "Te desejo sorte, filho de homem.",
+        "Character": "Tokei"
+      },
+      "4": {
+        "Text": "Você não vem também?!",
+        "Character": "Edgar"
+      },
+      "5": {
+        "Text": "São as regras. Ordens não podem \ndestruir fadas.",
+        "Character": "Tokei"
+      },
+      "6": {
+        "Text": "Não sei o que isso quer dizer, mas... \nJá volto, pessoal.",
+        "Character": "Edgar"
+      }
+    },
+    "20": {
+        "0": {
+          "Text": "Eu já resgatei Camille, não \npreciso voltar por aqui.",
+          "Character": "Edgar"
+        }
+    },
+    "21": {
+        "0": {
+          "Text": "Eu ainda não salvei todos os meus \namigos. Não posso voltar \nainda.",
+          "Character": "Edgar"
+        }
+    },
+    "22": {
+        "0": {
+          "Text": "Eu já resgatei William, não \npreciso voltar por aqui.",
+          "Character": "Edgar"
+        }
+    },
+    "23": {
+        "0": {
+         "Text": "Eu já resgatei Lenore, não \npreciso voltar por aqui.",
+         "Character": "Edgar"
+        }
+    },
+    "24": {
+      "0": {
+        "Text": "Eu já resgatei todos os meus amigos. \nNão preciso voltar para a ilha.",
+        "Character": "Edgar"
+      }
+    }
+}

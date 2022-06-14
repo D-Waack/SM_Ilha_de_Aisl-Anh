@@ -1,0 +1,20 @@
+{
+    "PlayerAtual": {
+        "healthpoints": 3,
+        "spawnPosition": [10, 10],
+        "mapa": "",
+        "posicao": [200, 50],
+        "forestClear": false,
+        "mountainsClear": false,
+        "villageClear": false
+    },
+    "PlayerSalvo": {
+        "healthpoints": 3,
+        "spawnPosition": [10, 10],
+        "mapa": "",
+        "posicao": [50, 50],
+        "forestClear": false,
+        "mountainsClear": false,
+        "villageClear": false
+    }
+}
